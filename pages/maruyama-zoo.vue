@@ -1,6 +1,6 @@
 <template>
   <h1 style="color: darkcyan">札幌市 円山動物園</h1>
-  <a href="https://www.city.sapporo.jp/zoo/index.html">ホームページ</a>
+
   <div class="img-container">
     <img style="width: 30%" src="~/assets/maruyama/img_4475.jpg" />
   </div>
@@ -35,6 +35,11 @@
     <img class="access" style="width: 40%" src="~/assets/maruyama/ac4.jpg" />
     <img class="access" style="width: 40%" src="~/assets/maruyama/ac6.jpg" />
   </div>
+  <br />
+  <a href="https://www.city.sapporo.jp/zoo/index.html"
+    >札幌円山動物園 公式ホームページ</a
+  >
+  <br />
   <br />
   <br />
 </template>
