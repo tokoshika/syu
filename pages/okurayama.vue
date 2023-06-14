@@ -36,7 +36,8 @@
   />
   <br />
   <img class="access" style="width: 70%" src="~/assets/okura/okura_06.jpg" />
-
+  <br />
+  <img class="access" id="left" style="width: 72%" src="~/assets/okura/okura_07.jpg" />
   <br />
   <a href="https://sapporo-olympicmuseum.jp/">大倉山オリンピックミュージアム</a>
   <br />
