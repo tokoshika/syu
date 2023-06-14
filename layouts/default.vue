@@ -47,6 +47,9 @@
   nav {
     background-color: rgb(40, 38, 38);
     color: white;
+    height: 50px;
+    display: inline-block;
+    /* vertical-align: middle; */
   }
   .color p:hover {
     color: yellow;
