@@ -35,6 +35,9 @@
   </header>
 </template>
 <style>
+  html {
+    font-family: "Noto Sans JP", sans-serif;
+  }
   nav {
     background-color: rgb(40, 38, 38);
     color: white;
