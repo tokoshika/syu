@@ -27,6 +27,12 @@
           <li>
             <NuxtLink to="/suidou" class="color">水道記念館</NuxtLink>
           </li>
+          <li>
+            <NuxtLink to="/gijidou" class="color">道議会</NuxtLink>
+          </li>
+          <li>
+            <NuxtLink to="/gijidou" class="color">サンピアザ</NuxtLink>
+          </li>
         </ul>
       </nav>
 
@@ -61,5 +67,12 @@
   li {
     list-style: none;
     margin-right: 2rem;
+  }
+
+  @media screen and (max-width: 920px) {
+    .color {
+      font-size: 0.7rem;
+      /* color: red; */
+    }
   }
 </style>
