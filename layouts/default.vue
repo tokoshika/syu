@@ -31,7 +31,7 @@
             <NuxtLink to="/gijidou" class="color">道議会</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/gijidou" class="color">サンピアザ</NuxtLink>
+            <NuxtLink to="/sanpiaza" class="color">サンピアザ</NuxtLink>
           </li>
         </ul>
       </nav>
@@ -47,8 +47,8 @@
   nav {
     background-color: rgb(40, 38, 38);
     color: white;
-    height: 50px;
-    display: inline-block;
+    height: 30px;
+    /* display: inline-block; */
     /* vertical-align: middle; */
   }
   .color p:hover {
@@ -72,7 +72,7 @@
     margin-right: 2rem;
   }
 
-  @media screen and (max-width: 920px) {
+  @media screen and (max-width: 1000px) {
     .color {
       font-size: 0.7rem;
       /* color: red; */
