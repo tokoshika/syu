@@ -18,7 +18,7 @@
   }
 
   span {
-    color: rgb(217, 209, 222);
+    color: rgb(170, 141, 188);
   }
   @media screen and (min-width: 1181px) {
     .img {
