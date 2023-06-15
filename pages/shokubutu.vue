@@ -2,7 +2,7 @@
   <h1 style="color: darkolivegreen">北海道大学植物園</h1>
 
   <div class="img-container">
-    <img style="width: 70%" src="~/assets/shokubutu/shoku_01.jpg" />
+    <img style="width: 70%" src="~/assets/shokubutu/shoku_05.jpg" />
   </div>
   <h3>アクセス</h3>
 
@@ -50,12 +50,13 @@
     style="width: 70%"
     src="~/assets/shokubutu/shoku_08.jpg"
   />
-  <h3>植物園</h3>
+
   <img
     class="access"
     style="width: 70%"
-    src="~/assets/shokubutu/shoku_05.jpg"
+    src="~/assets/shokubutu/shoku_01.jpg"
   />
+  <h3>植物園</h3>
   <img
     class="access"
     style="width: 70%"
