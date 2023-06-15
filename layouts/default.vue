@@ -4,7 +4,7 @@
       <nav>
         <ul>
           <li>
-            <NuxtLink to="/" class="color">HOME</NuxtLink>
+            <NuxtLink to="/" class="color">ＨＯＭＥ</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/maruyama-zoo" class="color">丸山動物園</NuxtLink>
