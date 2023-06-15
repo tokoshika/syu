@@ -47,7 +47,7 @@
   nav {
     background-color: rgb(40, 38, 38);
     color: white;
-    height: 30px;
+    height: 40px;
     /* display: inline-block; */
     /* vertical-align: middle; */
   }
@@ -70,6 +70,7 @@
   li {
     list-style: none;
     margin-right: 2rem;
+    margin-top: 1rem;
   }
 
   @media screen and (max-width: 1000px) {

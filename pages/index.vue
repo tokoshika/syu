@@ -1,6 +1,32 @@
 <template>
+  <img class="img" src="~/assets/wall2.png" />
   <div>
-    <h1>It will be released to everyone soon.</h1>
-    <h1>Looking forward to it.</h1>
+    <h3>
+      <span>『自主研修』</span> の場所は全部で９カ所。さぁ、君はどこを選ぶ？
+    </h3>
   </div>
 </template>
+<style>
+  body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .img {
+    margin-top: 1rem;
+    width: 90%;
+  }
+
+  span {
+    color: rgb(217, 209, 222);
+  }
+  @media screen and (min-width: 1181px) {
+    .img {
+      width: 70%;
+    }
+    h3 {
+      background-color: rgb(40, 38, 38);
+      color: white;
+    }
+  }
+</style>
