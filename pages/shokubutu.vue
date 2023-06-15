@@ -19,7 +19,7 @@
   <div class="access-container">
     <img
       class="access"
-      style="width: 75%"
+      style="width: 70%"
       src="~/assets/shokubutu/shoku_02.jpg"
     />
   </div>
