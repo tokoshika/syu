@@ -13,7 +13,7 @@
             <NuxtLink to="/bousai" class="color">防災センター</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/hbc" class="color">HBC</NuxtLink>
+            <NuxtLink to="/hbc" class="color">ＨＢＣ</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/okurayama" class="color">大倉山</NuxtLink>
