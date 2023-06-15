@@ -21,6 +21,7 @@
   <!-- <h3>館内施設 紹介</h3> -->
   <img class="access" style="width: 70%" src="~/assets/hbc/hbc_03.jpg" />
   <br />
+  <a href="https://www.hbc.co.jp/">北海道文化放送</a>
   <br />
   <br />
 </template>
