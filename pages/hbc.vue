@@ -1,5 +1,5 @@
 <template>
-  <h1 style="color: #c71585">北海道文化放送</h1>
+  <h1 style="color: crimson">北海道文化放送</h1>
 
   <div class="img-container">
     <img style="width: 70%" src="~/assets/hbc/hbc_01.jpg" />
