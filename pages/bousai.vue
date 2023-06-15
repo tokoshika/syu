@@ -1,5 +1,5 @@
 <template>
-  <h1 style="color: blue">市民防災センタ―</h1>
+  <h1 style="color: red">市民防災センタ―</h1>
 
   <div class="img-container">
     <img style="width: 50%" src="~/assets/bousai/bousai_01.jpg" />

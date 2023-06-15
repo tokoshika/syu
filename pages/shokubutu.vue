@@ -1,5 +1,5 @@
 <template>
-  <h1 style="color: sienna">北海道大学植物園</h1>
+  <h1 style="color: darkolivegreen">北海道大学植物園</h1>
 
   <div class="img-container">
     <img style="width: 70%" src="~/assets/shokubutu/shoku_01.jpg" />
