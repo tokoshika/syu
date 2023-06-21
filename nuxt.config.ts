@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   app: {
     head: {
+      title: "自主研修",
       link: [
         {
           rel: "preconnect",
