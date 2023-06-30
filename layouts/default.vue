@@ -4,7 +4,7 @@
       <nav>
         <ul>
           <li>
-            <NuxtLink to="/test" class="color">地下鉄料金検索</NuxtLink>
+            <NuxtLink to="/test" class="color">地下鉄料金</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/" class="color">ＨＯＭＥ</NuxtLink>
@@ -15,9 +15,9 @@
           <li>
             <NuxtLink to="/bousai" class="color">防災センター</NuxtLink>
           </li>
-          <li>
+          <!-- <li>
             <NuxtLink to="/hbc" class="color">ＨＢＣ</NuxtLink>
-          </li>
+          </li> -->
           <li>
             <NuxtLink to="/okurayama" class="color">大倉山</NuxtLink>
           </li>
