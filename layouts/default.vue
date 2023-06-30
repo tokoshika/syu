@@ -4,6 +4,9 @@
       <nav>
         <ul>
           <li>
+            <NuxtLink to="/test" class="color">地下鉄料金検索</NuxtLink>
+          </li>
+          <li>
             <NuxtLink to="/" class="color">ＨＯＭＥ</NuxtLink>
           </li>
           <li>
