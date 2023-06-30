@@ -81,7 +81,10 @@
     margin-top: 1rem;
     width: 90%;
   }
-
+h1 {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
   span {
     color: rgb(170, 141, 188);
   }
