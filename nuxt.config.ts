@@ -4,6 +4,9 @@ export default defineNuxtConfig({
   app: {
     head: {
       title: "自主研修",
+      meta:[
+        { charset:"utf-8"},
+      ],
       link: [
         {
           rel: "preconnect",
