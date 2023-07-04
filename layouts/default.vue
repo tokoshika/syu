@@ -4,10 +4,10 @@
       <nav>
         <ul>
           <li>
-            <NuxtLink to="/test" class="color">地下鉄料金</NuxtLink>
+            <NuxtLink to="/" class="color">ＨＯＭＥ</NuxtLink>
           </li>
           <li>
-            <NuxtLink to="/" class="color">ＨＯＭＥ</NuxtLink>
+            <NuxtLink to="/test" class="subway">地下鉄料金</NuxtLink>
           </li>
           <li>
             <NuxtLink to="/maruyama-zoo" class="color">丸山動物園</NuxtLink>
@@ -51,12 +51,10 @@
     background-color: rgb(40, 38, 38);
     color: white;
     height: 40px;
-    /* display: inline-block; */
-    /* vertical-align: middle; */
   }
-  .color p:hover {
+  /* .color p:hover {
     color: yellow;
-  }
+  } */
   header {
     text-align: center;
   }
@@ -76,10 +74,16 @@
     margin-top: 1rem;
   }
 
+  .subway {
+    color: rgb(252, 240, 9);
+    font-size: 1rem;
+    text-decoration: none;
+  }
+
   @media screen and (max-width: 1000px) {
-    .color {
+    .color,
+    .subway {
       font-size: 0.7rem;
-      /* color: red; */
     }
   }
 </style>
